@@ -1,0 +1,21 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    xmlns:pv="http://schemas.android.com/apk/res-auto"
+    tools:context="Fragmens.Zhutiribao">
+
+
+    <test.bwie.com.myruanjian1.MyRoundView
+        android:layout_width="100dp"
+        android:layout_height="77dp"
+        android:src="@mipmap/w2"
+        android:id="@+id/w2"
+        android:visibility="visible"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="156dp" />
+
+
+</RelativeLayout>
